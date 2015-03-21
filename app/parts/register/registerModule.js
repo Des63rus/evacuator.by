@@ -1,0 +1,1 @@
+angular.module('evacuatorby.registerModule', ['evacuatorby.registerController']);
